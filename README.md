@@ -5,6 +5,8 @@ Estudos de estatística utilizando R e Python
 * Distribuição Binomial e Normal.ipynb
 * Distribuição T de Student.ipynb
 * Intervalo de Confiança.ipynb
+* Teste Qui quadrado
+* Teste de variância - Anova
 * Regressão Linear Múltipla.ipynb
 * Regressão Linear Simples .ipynb
 * Teste de Hipótese com Análise Exploratória de Dados.ipynb
