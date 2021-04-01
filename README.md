@@ -12,7 +12,7 @@
 * Uma variável explanatória para prever uma variável dependente
 * Dataset: cars.csv: medida da velocidade e distância após freagem de vários veículos.
 
-### Modelo de regressão em Python
+### Modelo de regressão em Python com bilbioteca sklearn
 
 ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_simples.png)
 
@@ -25,7 +25,7 @@
 * Duas os mais variáveis explanatórias para prever uma variável dependente
 * Dataset: mtcars.csv: dados de especificações de modelos de veículos.
 
-### Modelo de regressão múltipla em Python: Previsão de autonomia do veículo
+### Modelo de regressão múltipla em Python: Previsão de autonomia do veículo. Bibliotecas: Sklearn e Stats model
 
 ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_multipla.png)
 
