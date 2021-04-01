@@ -25,6 +25,14 @@ Estudos de estatística utilizando R e Python
 ---
 * Duas os mais variáveis explanatórias para prever uma variável dependente
 * Dataset: mtcars.csv: dados de especificações de modelos de veículos.
+
+### Modelo de regressão múltipla em Python: Previsão de autonomia do veículo
+
+![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_multipla.png)
+
+* Predict com regressão simples: cilindradas = 200; consumo = 21
+* Predict com regressão múltipla: cilindradas = 200, cilindros = 4, cavalos = 100; consumo = 24
+
  
 * Regressão Logistica
 * Teste de Hipótese com Análise Exploratória de Dados
