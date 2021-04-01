@@ -1,13 +1,13 @@
 # Estatistica_com_R_e_Python
 Estudos de estatística utilizando R e Python 
 
-* Amostragem e Medidas de Centralidade
-* Distribuição Binomial e Normal
-* Distribuição T de Student
-* Distribuição de Poisson
-* Intervalo de Confiança
-* Teste Qui quadrado
-* Teste de variância - Anova
+## Amostragem e Medidas de Centralidade
+## Distribuição Binomial e Normal
+## Distribuição T de Student
+## Distribuição de Poisson
+## Intervalo de Confiança
+## Teste Qui quadrado
+## Teste de variância - Anova
 ## Regressão Linear Simples
 ---
 * Uma variável explanatória para prever uma variável dependente
@@ -33,7 +33,9 @@ Estudos de estatística utilizando R e Python
 * Predict com regressão simples: cilindradas = 200; consumo = 21
 * Predict com regressão múltipla: cilindradas = 200, cilindros = 4, cavalos = 100; consumo = 24
 
- 
-* Regressão Logistica
-* Teste de Hipótese com Análise Exploratória de Dados
-* Teoria Central do Limite
+## Regressão Logistica
+---
+## Teste de Hipótese com Análise Exploratória de Dados
+---
+## Teoria Central do Limite
+---
