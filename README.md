@@ -7,7 +7,7 @@
 ## Intervalo de Confiança
 ## Teste Qui quadrado
 ## Teste de variância - Anova
-## Regressão Linear Simples
+## Regressão Linear Simples -Y ~ X
 ---
 * Uma variável explanatória para prever uma variável dependente
 * Dataset: cars.csv: medida da velocidade e distância após freagem de vários veículos.
