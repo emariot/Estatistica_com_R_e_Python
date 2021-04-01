@@ -10,6 +10,7 @@ Estudos de estatística utilizando R e Python
 * Teste de variância - Anova
 * Regressão Linear Múltipla
 * Regressão Linear Simples
+![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_simples.png)
 * Regressão Logistica
 * Teste de Hipótese com Análise Exploratória de Dados
 * Teoria Central do Limite
