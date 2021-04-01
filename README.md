@@ -8,7 +8,6 @@ Estudos de estatística utilizando R e Python
 * Intervalo de Confiança
 * Teste Qui quadrado
 * Teste de variância - Anova
-* Regressão Linear Múltipla
 ## Regressão Linear Simples
 ---
 * Uma variável explanatória para prever uma variável dependente
@@ -22,6 +21,11 @@ Estudos de estatística utilizando R e Python
 
 ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_simples_res%C3%ADduos.png)
 
+## Regressão Linear Múltipla- Y ~ X1 + X2 + Xn
+---
+* Duas os mais variáveis explanatórias para prever uma variável dependente
+* Dataset: mtcars.csv: dados de especificações de modelos de veículos.
+ 
 * Regressão Logistica
 * Teste de Hipótese com Análise Exploratória de Dados
 * Teoria Central do Limite
