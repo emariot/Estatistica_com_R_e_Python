@@ -12,7 +12,7 @@ Estudos de estatística utilizando R e Python
 ## Regressão Linear Simples
 ---
 * Uma variável explanatória para prever uma variável dependente
-* Dataset: cars.csv, medida da velocidade e distância após freagem de vários veículos.
+* Dataset: cars.csv: medida da velocidade e distância após freagem de vários veículos.
 
 ### Modelo de regressão em Python
 
