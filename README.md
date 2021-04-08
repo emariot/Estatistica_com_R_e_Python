@@ -3,8 +3,7 @@
 ## Tabelas de Frequência
 ---
 * Contrução de uma tabela de frequência em R
-
-![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/tabela_frequencia.PNG)
+  > ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/tabela_frequencia.PNG)
 
 ## Amostragem e Medidas de Centralidade
 ## Distribuição Binomial e Normal
