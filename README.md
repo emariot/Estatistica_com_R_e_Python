@@ -19,11 +19,11 @@
 
 ### Modelo de regressão em Python com bilbioteca sklearn
 
-![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_simples.png)
+> ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_simples.png)
 
 ### Os resíduos se aproxímam de uma distribuição normal, significa que o modelo tem uma ótima correlação 
 
-![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_simples_res%C3%ADduos.png)
+> ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_simples_res%C3%ADduos.png)
 
 ### Exercício: modelo de regressão linear para prever qual será o investimento inicial necessário de uma franquia a partir da Taxa Anual cobrado pelo franqueado.
 
@@ -32,7 +32,7 @@
 * CusInic: Investimento Inicial
 
 #### Regressão: 
-![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/franquia.png)
+> ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/franquia.png)
 
 #### Modelo:
 * Variável independente: 1300
@@ -46,7 +46,7 @@
 ### Modelo de regressão múltipla em Python: Previsão de autonomia do veículo. 
 Bibliotecas: Sklearn e Stats model
 
-![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_multipla.png)
+> ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_multipla.png)
 
 * Predict com regressão simples: cilindradas = 200; consumo = 21
 * Predict com regressão múltipla: cilindradas = 200, cilindros = 4, cavalos = 100; consumo = 24
