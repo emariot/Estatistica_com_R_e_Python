@@ -1,11 +1,12 @@
 # Estudos de estatística utilizando R e Python 
 
-## Tabelas de Frequência
+## 1. Tabelas de Frequência
 ---
 * Contrução de uma tabela de frequência em R
   > ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/tabela_frequencia.PNG)
 
-## Amostragem e Medidas de Centralidade
+## 2. Amostragem e Medidas de Centralidade
+---
 
 ### A amostra é parte de uma população, selecionada randomicamente, que forma o conjunto de elementos que esta sendo estudado. 
 * População: todo o alvo de um estudo 
@@ -60,13 +61,19 @@
   * Menor custo
   * Rapidez
 ---
-## Distribuição Binomial e Normal
-## Distribuição T de Student
-## Distribuição de Poisson
-## Intervalo de Confiança
-## Teste Qui quadrado
-## Teste de variância - Anova
-## Regressão Linear Simples -Y ~ X
+## 3. Distribuição Binomial e Normal
+---
+## 4. Distribuição T de Student
+---
+## 5. Distribuição de Poisson
+---
+## 6. Intervalo de Confiança
+---
+## 7. Teste Qui quadrado
+---
+## 8. Teste de variância - Anova
+---
+## 9. Regressão Linear Simples -Y ~ X
 ---
 * Uma variável explanatória para prever uma variável dependente
 * Dataset: cars.csv: medida da velocidade e distância após freagem de vários veículos.
@@ -92,7 +99,7 @@
 * Variável independente: 1300
 * Variável resposta: 1352 
 
-## Regressão Linear Múltipla- Y ~ X1 + X2 + Xn
+## 10. Regressão Linear Múltipla- Y ~ X1 + X2 + Xn
 ---
 * Duas os mais variáveis explanatórias para prever uma variável dependente
 * Dataset: mtcars.csv: dados de especificações de modelos de veículos.
@@ -105,9 +112,9 @@ Bibliotecas: Sklearn e Stats model
 * Predict com regressão simples: cilindradas = 200; consumo = 21
 * Predict com regressão múltipla: cilindradas = 200, cilindros = 4, cavalos = 100; consumo = 24
 
-## Regressão Logistica
+## 11. Regressão Logistica
 ---
-## Teste de Hipótese com Análise Exploratória de Dados
+## 12. Teste de Hipótese com Análise Exploratória de Dados
 ---
-## Teoria Central do Limite
+## 13. Teoria Central do Limite
 ---
