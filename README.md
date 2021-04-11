@@ -25,8 +25,6 @@
 
 #### Custo/Benefício de uma Amostra: vantagem de não trabalhar com toda a população, poupando recursos e agilizando a captação dos dados.
 
----
-
 ### Amostragem Probabilística (elementos selecionados de forma aleatória, todos com a mesma probabilidade de serem escolhidos):
 * Amostragem Simples ao Acaso
 * Amostragem Sistemática
