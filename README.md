@@ -86,7 +86,7 @@
 
 > ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/Regress%C3%A3o_linear_simples_res%C3%ADduos.png)
 
-### Exercício: modelo de regressão linear para prever qual será o investimento inicial necessário de uma franquia a partir da Taxa Anual cobrado pelo franqueado.
+### * Exercício: modelo de regressão linear para prever qual será o investimento inicial necessário de uma franquia a partir da Taxa Anual cobrado pelo franqueado.
 
 #### Variáveis: 
 * FraAnual: Taxa Anual
