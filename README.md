@@ -6,6 +6,62 @@
   > ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/tabela_frequencia.PNG)
 
 ## Amostragem e Medidas de Centralidade
+
+### A amostra é parte de uma população, selecionada randomicamente, que forma o conjunto de elementos que esta sendo estudado. 
+* População: todo o alvo de um estudo 
+* Amostra: subconjunto da população
+* Censo: pesquisa com toda a população
+
+<strong>Quando feita corretamente, a amostra preserva as mesmas características da população de onde foi retirada, caso contrário ela poderá estar enviesada. Para tanto faz-se necessário precisar: </strong>
+
+* O tipo de coleta da amostra
+* O tamanho da amostra
+* A randonização dos dados
+
+#### Viés: subestima ou superestimação da população.
+* Pesquisa de elementos de fácil acesso
+* Pesquisas pela Internet (contando com pessoas que possuiem interesse na pesquisa)
+* Sem utilização mecanismos de seleção aleatória
+
+#### Custo/Benefício de uma Amostra: vantagem de não trabalhar com toda a população, poupando recursos e agilizando a captação dos dados.
+
+---
+
+### Amostragem Probabilística (elementos selecionados de forma aleatória, todos com a mesma probabilidade de serem escolhidos):
+* Amostragem Simples ao Acaso
+* Amostragem Sistemática
+* Amostragem por Conglomerado
+* Amostragem Estratificada
+* Reamostragem (Boostrap)
+
+### Amostragem não Probabilística (subjetiva, com interferência do pesquisados):
+* Amostragem a Esmo
+* Amostragem Intencional 
+* Amostragem por Voluntários
+
+### Diferênça entre Parâmetro e Estatística
+* Parâmetro: característica sobre a população
+  * Valores calculados usando dados da população são chamados de parâmetros
+* Estatística: característica sobre a amostra
+  * Valores calculados usando dados da amostra sãochamados estatísticas
+  
+> A estatística inferencial realiza deduções e conclusões sobre a população baseadas nos resultados obtidos na análise da amostra. A AMOSTRA é utilizada para calcular a estatística que é usada para estimar os parâmetros da POPULAÇÃO.
+
+### Dados Primários e Dados Secundários:
+* Primários:
+  * Coletados por quem faz a análise
+  * Confiáveis
+  * Possuem maior controle
+  * Maior custo
+  * Maior tempo
+  * Maior equipe
+* Secundários (mais comuns):
+  * Coletados por terceiros
+  * Menos confiáveis 
+  * Pouco controle
+  * Menor custo
+  * Rapidez
+---
 ## Distribuição Binomial e Normal
 ## Distribuição T de Student
 ## Distribuição de Poisson
