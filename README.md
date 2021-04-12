@@ -5,7 +5,7 @@
 * Contrução de uma tabela de frequência em R
   > ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/tabela_frequencia.PNG)
 
-## 2. Amostragem e Medidas de Centralidade
+## 2. Amostragem, Medidas de Centralidade e Variabilidade
 ---
 
 ### A amostra é parte de uma população, selecionada randomicamente, que forma o conjunto de elementos que esta sendo estudado. 
@@ -60,6 +60,28 @@
   * Pouco controle
   * Menor custo
   * Rapidez
+  
+### Medidas de Centralidade e Variabilidade
+µ = média da população = Σx/N -> trata-se de um parâmetro populacional
+X = média da amostra = Σx/n -> trata-se de uma estatística amostral
+Moda = Valor mais frequente/comum
+Mediana: Valor que separa a metade maior da metade menor de uma amostra ou população
+Amplitude: Diferença entre o maior e o menor valor na amostra ou população.
+σ^2 = Variância Populacional = Σ(xi-X)^2/N -> média dos quadrados das diferenças entre cada elemento e a média da população. Indica a dispersão dos dados em relação à média.
+S^2 = Variância Amostral = Σ(xi-X)^2/(n-1) -> Estimativa não viciada: média dos quadrados das diferenças entre cada elemento e a média da da amóstra menos 1. O resultado é um número maior que o da Variância Populacional.
+σ = Desvio Padrão
+FIQ = Intervalo Interquartil = 3Q - 1Q
+Quartis:
+
+Q1: 25% dos menores valores
+Q2: 50% dos valores (mediana)
+Q3: 75% dos maiores valores
+
+Coeficiente de Variação (CV):
+
+Um CV alto indica alta variabilidade dos dados, ou seja, menos consistência nos dados,
+Um CV baixo indica mais consistência nos dados dentro do conjunto de dados.
+CV = (Desvio Padrão/Média)*100
 ---
 ## 3. Distribuição Binomial e Normal
 ---
