@@ -72,7 +72,7 @@
 * σ = Desvio Padrão
 * FIQ = Intervalo Interquartil = 3Q - 1Q
 
-#### Quartis:
+#### Medidas de posição relativa: quartis:
 
 * Q1: 25% dos menores valores
 * Q2: 50% dos valores (mediana)
