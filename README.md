@@ -62,26 +62,26 @@
   * Rapidez
   
 ### Medidas de Centralidade e Variabilidade
-µ = média da população = Σx/N -> trata-se de um parâmetro populacional
-X = média da amostra = Σx/n -> trata-se de uma estatística amostral
-Moda = Valor mais frequente/comum
-Mediana: Valor que separa a metade maior da metade menor de uma amostra ou população
-Amplitude: Diferença entre o maior e o menor valor na amostra ou população.
-σ^2 = Variância Populacional = Σ(xi-X)^2/N -> média dos quadrados das diferenças entre cada elemento e a média da população. Indica a dispersão dos dados em relação à média.
-S^2 = Variância Amostral = Σ(xi-X)^2/(n-1) -> Estimativa não viciada: média dos quadrados das diferenças entre cada elemento e a média da da amóstra menos 1. O resultado é um número maior que o da Variância Populacional.
-σ = Desvio Padrão
-FIQ = Intervalo Interquartil = 3Q - 1Q
-Quartis:
+* µ = média da população = Σx/N -> trata-se de um parâmetro populacional
+* X = média da amostra = Σx/n -> trata-se de uma estatística amostral
+* Moda = Valor mais frequente/comum
+* Mediana: Valor que separa a metade maior da metade menor de uma amostra ou população
+* Amplitude: Diferença entre o maior e o menor valor na amostra ou população.
+* σ^2 = Variância Populacional = Σ(xi-X)^2/N -> média dos quadrados das diferenças entre cada elemento e a média da população. Indica a dispersão dos dados em relação à média.
+* S^2 = Variância Amostral = Σ(xi-X)^2/(n-1) -> Estimativa não viciada: média dos quadrados das diferenças entre cada elemento e a média da da amóstra menos 1. O resultado é um número maior que o da Variância Populacional.
+* σ = Desvio Padrão
+* FIQ = Intervalo Interquartil = 3Q - 1Q
 
-Q1: 25% dos menores valores
-Q2: 50% dos valores (mediana)
-Q3: 75% dos maiores valores
+####Quartis:
 
-Coeficiente de Variação (CV):
+* Q1: 25% dos menores valores
+* Q2: 50% dos valores (mediana)
+* Q3: 75% dos maiores valores
 
-Um CV alto indica alta variabilidade dos dados, ou seja, menos consistência nos dados,
-Um CV baixo indica mais consistência nos dados dentro do conjunto de dados.
-CV = (Desvio Padrão/Média)*100
+#### Coeficiente de Variação (CV):
+  * Um CV alto indica alta variabilidade dos dados, ou seja, menos consistência nos dados,
+  * Um CV baixo indica mais consistência nos dados dentro do conjunto de dados.
+  > CV = (Desvio Padrão/Média)*100
 ---
 ## 3. Distribuição Binomial e Normal
 ---
