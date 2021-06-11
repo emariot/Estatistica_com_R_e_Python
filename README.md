@@ -140,3 +140,19 @@ Bibliotecas: Sklearn e Stats model
 ---
 ## 13. Teoria Central do Limite
 ---
+## 14. Séries Temporais
+> Encontrar tendências, fazer prtevisões e manter controle
+* Estuda o comportamento de uma variável contínua ao longo do tempo
+    * Uma mesma variável analisada no decorrer do tempo
+    * Relação no intervalo de tempo
+    * O intervalo de tempo deve ser regular
+    * Dependência da ordem
+    * Não é possível analisar mais de uma amostra em um intervalo
+* Estacionárias:
+    * Flutuam em torno de uma mesma média e variância
+* Não estacionárias:
+    * Exibem trends, ciclos, padrões sazonais e outros comportamentos.
+* Estocásticas:
+    * Composta por um fator aleatório ue não pode ser explicado matematicamente.
+* Determinísticas:
+    * Explicaveis por meio de uma função.
