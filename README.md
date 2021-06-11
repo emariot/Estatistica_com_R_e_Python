@@ -161,6 +161,6 @@ Bibliotecas: Sklearn e Stats model
 * Tendência
 * Sazonalidade
 * Aleatoridade
-> ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/elem.PNG)
+> ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/elem.png)
 ## Previsão (Data: AirPassengers)
-> ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/series_temporais.PNG)
+> ![alt text](https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/series_temporais.png)
