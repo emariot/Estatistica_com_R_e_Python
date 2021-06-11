@@ -156,3 +156,10 @@ Bibliotecas: Sklearn e Stats model
     * Composta por um fator aleatório ue não pode ser explicado matematicamente.
 * Determinísticas:
     * Explicaveis por meio de uma função.
+
+## Componentes de uma Série Temporal
+## Podem ou não compor uma série temporal
+---
+* Tendência
+* Sazonalidade
+* Aleatoridade
