@@ -157,9 +157,7 @@ Bibliotecas: Sklearn e Stats model
 * Determinísticas:
     * Explicaveis por meio de uma função.
 
-## Componentes de uma Série Temporal
-## Podem ou não compor uma série temporal
----
+## Componentes de uma Série Temporal: 
 * Tendência
 * Sazonalidade
 * Aleatoridade
