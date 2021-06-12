@@ -168,4 +168,4 @@ Bibliotecas: Sklearn e Stats model
 <a href="https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/series_temporais.png" ><img src="https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/series_temporais.png" align="left" height="400" width="600"  ></a>|
 |Previsão Python (Data: AirPassengers)|
 | ---------- |
-<a href="https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/series_temporais_python.png" ><img src="https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/R/img/series_temporais_python.png" align="left" height="400" width="600"  ></a>|
+<a href="https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/series_temporais_python.png" ><img src="https://github.com/emariot/Estatistica_com_R_e_Python/blob/main/Python/img/series_temporais_python.png" align="left" height="400" width="600"  ></a>|
